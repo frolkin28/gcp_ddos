@@ -1,8 +1,9 @@
 package main
 
 import (
-	"ddos/lib"
 	"fmt"
+
+	"github.com/frolkin28/gcp_ddos/lib"
 )
 
 func main() {

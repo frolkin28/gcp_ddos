@@ -1,4 +1,4 @@
-module ddos
+module github.com/frolkin28/gcp_ddos
 
 go 1.17
 
